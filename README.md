@@ -11,13 +11,13 @@
 
 ### Connect with me
 
-[![linkedin](assets\linkedin.png)](https://www.linkedin.com/in/callmeashish/)
+[![Linkedin][assets\linkedin.png]][https://www.linkedin.com/in/callmeashish/]
 
 <!-- <br /> -->
 
 ### Languages and Tools
 
-[![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)](https://code.visualstudio.com/)
+<!-- [![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)](https://code.visualstudio.com/) -->
 
 <!-- [![Python 3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)](https://code.visualstudio.com/) -->
 
