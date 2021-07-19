@@ -16,4 +16,8 @@
 
 ### Languages and Tools
 
-[![Editor](assets/vscode.png)](https://code.visualstudio.com/)
+<a href="https://www.python.org/about/"><img align="left" alt="Python" width="22px" src="assets/python.png" /></a>
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="22px" src="assets/java.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="22px" src="assets/javascipt.png" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" width="22px" src="assets/react.png" /></a>
+<a href="https://nodejs.dev/"><img align="left" alt="Node" width="22px" src="assets/nodejs.png" /></a>
