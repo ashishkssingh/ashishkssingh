@@ -1,7 +1,5 @@
 # Hi there, I'm Ashish 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 ## I'm 26 years old Python Developer
 
 - 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
