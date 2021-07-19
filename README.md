@@ -9,6 +9,6 @@
 
 ### Connect with me
 
-[<img align="left" alt="callmeashish | LinkedIn" width="22px" src="assets/linkedin.png" />][linkedin]
+<a href="https://www.linkedin.com/in/callmeashish/"><img align="left" alt="callmeashish | LinkedIn" width="22px" src="assets/linkedin.png" /></a>
 
 ### Languages and Tools
