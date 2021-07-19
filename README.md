@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-[![linkedin](assets\visual-studio.png)](https://www.linkedin.com/in/callmeashish/)
+[![linkedin](assets\linkedin.png)](https://www.linkedin.com/in/callmeashish/)
 
 <!-- <br /> -->
 
