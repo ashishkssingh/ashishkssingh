@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Callmeashish | LinkedIn" width="22px" src="https://github.com/callmeashish/callmeashish/blob/main/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="callmeashish | LinkedIn" width="22px" src="assets/linkedin.png" />][linkedin]
 
 <!-- <br /> -->
 
