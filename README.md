@@ -2,8 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-## I'm 26 years old Python Developer, Machine Learning & Artificial Intelligence Enthusiast
+## I'm 26 years old Python Developer
 
+- 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game.
@@ -12,13 +13,11 @@
 
 ### Connect with me
 
-[[linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg")](https://www.linkedin.com/in/callmeashish/)
+[[linkedin](assets\visual-studio.png)](https://www.linkedin.com/in/callmeashish/)
 
 <!-- <br /> -->
 
 ### Languages and Tools
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 [![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)](https://code.visualstudio.com/)
 
