@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish 👋
 
-## I'm 26 years old Python Developer
+## I'm a Developer
 
 - 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
 - 🌱 I’m currently learning everything 🤣
