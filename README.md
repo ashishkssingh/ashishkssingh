@@ -1,13 +1,12 @@
 # Hi there, I'm Ashish 👋
 
 ## Just another Developer
+<img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 - 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game.
-
-<img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 ### Connect with me
 
