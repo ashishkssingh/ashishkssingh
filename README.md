@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game.
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://gph.is/g/ZYmdBq3">
+<img hight="320" width="450" align="right" alt="GIF" src="https://giphy.com/embed/hrRJ41JB2zlgZiYcCw">
 
 ### Connect with me
 
