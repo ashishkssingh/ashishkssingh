@@ -7,6 +7,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game.
 
+<img hight="320" width="450" align="right" alt="GIF" src="https://gph.is/g/ZYmdBq3">
+
 ### Connect with me
 
 <a href="mailto:ashishkumarsingh046@gmail.com"><img align="left" alt="Email" width="22px" src="assets/gmail.png" /></a>
