@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish 👋
 
-## I'm a Developer
+## Just another Developer
 
 - 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
 - 🌱 I’m currently learning everything 🤣
