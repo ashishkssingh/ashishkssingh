@@ -3,6 +3,7 @@
 ## Just another Developer
 <img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
+<<<<<<< HEAD
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
 - 🌱 I’m currently learning everything 🤣.
 - 🥅 **2021 Goals**: 
