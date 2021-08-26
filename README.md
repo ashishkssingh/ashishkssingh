@@ -1,10 +1,13 @@
 # Hi there, I'm Ashish 👋
 
-## I'm a Developer
+## Just another Developer
+<img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
-- 💻 I'm Machine Learning & Artificial Intelligence Enthusiast
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
+- 🌱 I’m currently learning everything 🤣.
+- 🥅 **2021 Goals**: 
+  - Contribute more to Open Source projects.
+  - Practice more Test-Driven Development.
 - ⚡ Fun fact: I love to game.
 
 ### Connect with me
@@ -16,7 +19,7 @@
 
 ### Languages and Tools
 
-<a href="https://www.python.org/about/"><img align="left" alt="Python" width="30px" src="assets/python.png" /></a>
+<a href="https://www.python.org/about/"><img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <a href="https://www.java.com/en/"><img align="left" alt="Java" width="30px" src="assets/java.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" src="assets/javascript.png" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="30px" src="assets/react.png" /></a>
