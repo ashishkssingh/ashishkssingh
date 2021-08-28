@@ -8,7 +8,7 @@
 - 🥅 **2021 Goals**: 
   - Contribute more to Open Source projects.
   - Practice more Test-Driven Development.
-- ⚡ Fun fact: I love to game.
+- ⚡ Fun fact: I love playing CSGO.
 
 ### Connect with me
 
