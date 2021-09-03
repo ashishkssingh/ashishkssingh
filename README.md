@@ -24,5 +24,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" src="assets/javascript.png" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="30px" src="assets/react.png" /></a>
 <a href="https://nodejs.dev/"><img align="left" alt="Node" width="30px" src="assets/nodejs.png" /></a>
-<a href="https://git-scm.com/"><img align="left" alt="Node" width="30px" src="assets/git.png" /></a>
-<a href="https://github.com/"><img align="left" alt="Node" width="30px" src="assets/github.png" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" src="assets/git.png" /></a>
+<a href="https://github.com/"><img align="left" alt="GitHub" width="30px" src="assets/github.png" /></a>
+<a href="https://www.docker.com/"><img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a>
