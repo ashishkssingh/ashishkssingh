@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish Singh👋
 
-## Just another Developer
+## Just a Developer
 <img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
