@@ -5,7 +5,7 @@
 
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
 - 🌱 I’m currently learning React.
-- 🥅 **2021 Goals**: 
+- 🥅 **2022 Goals**: 
   - Contribute more to Open Source projects.
   - Practice more Test-Driven Development.
 - ⚡ Fun fact: I love playing CSGO.
