@@ -4,16 +4,17 @@
 <img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
-- 🌱 I’m currently improving my soft skills.
-- 🥅 **2022 Goals**: 
+- 🥅 **2023 Goals**: 
   - Contribute more to Open Source projects.
-  - Practice more Test-Driven Development.
-- ⚡ Fun fact: I love playing CSGO.
+  - Develop more soft skills.
+  - Improve software design skills
+  - Try incorporating more best practices for software development.
+- ⚡ Fun fact: I love playing CSGO and Apex Legends.
 
 ### Connect with me
 
 <a href="mailto:ashishkumarsingh046@gmail.com"><img style="margin:0 5px" align="left" alt="Email" width="22px" src="assets/gmail.png" /></a>
-<a href="https://www.linkedin.com/in/callmeashish/"><img style="margin:0 5px" align="left" alt="LinkedIn" width="22px" src="assets/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/ashishkssingh/"><img style="margin:0 5px" align="left" alt="LinkedIn" width="22px" src="assets/linkedin.png" /></a>
 
 <br />
 
