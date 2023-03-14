@@ -4,6 +4,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
+
 - 🥅 **2023 Goals**: 
   - Contribute more to Open Source projects.
   - Develop more soft skills.
@@ -15,6 +16,7 @@
 
 <a href="mailto:ashishkumarsingh046@gmail.com"><img style="margin:0 5px" align="left" alt="Email" width="22px" src="assets/gmail.png" /></a>
 <a href="https://www.linkedin.com/in/ashishkssingh/"><img style="margin:0 5px" align="left" alt="LinkedIn" width="22px" src="assets/linkedin.png" /></a>
+
 
 <br />
 
