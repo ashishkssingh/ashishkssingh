@@ -1,22 +1,22 @@
 # Hi there, I'm Ashish Singh👋
 
 ## Just a Developer
+
 <img hight="320" width="450" align="right" alt="GIF" src="assets/giphy.gif">
 
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
 
-- 🥅 **2023 Goals**: 
-  - Contribute more to Open Source projects.
-  - Develop more soft skills.
-  - Improve software design skills
-  - Try incorporating more best practices for software development.
-- ⚡ Fun fact: I love playing CSGO and Apex Legends.
+- 🥅 **2024 Goals**:
+  - From code warrior to coding crusader, join the rebellion for collaborative greatness!
+  - Wrangle egos with emojis, become a communication champion.
+  - Craft katana-elegant, ninja-efficient software
+  - Sprinkle your code with guru-approved magic, dance with the latest trends, leave legacy code in the dust.
+- ⚡ Fun fact: I love playing CSGO and Apex Legends and memes in general.
 
 ### Connect with me
 
 <a href="mailto:ashishkumarsingh046@gmail.com"><img style="margin:0 5px" align="left" alt="Email" width="22px" src="assets/gmail.png" /></a>
 <a href="https://www.linkedin.com/in/ashishkssingh/"><img style="margin:0 5px" align="left" alt="LinkedIn" width="22px" src="assets/linkedin.png" /></a>
-
 
 <br />
 
