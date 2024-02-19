@@ -7,10 +7,10 @@
 - 💻 I'm a Machine Learning & Artificial Intelligence Enthusiast.
 
 - 🥅 **2024 Goals**:
-  - From code warrior to coding crusader, join the rebellion for collaborative greatness!
-  - Wrangle egos with emojis, become a communication champion.
-  - Craft katana-elegant, ninja-efficient software
-  - Sprinkle your code with guru-approved magic, dance with the latest trends, leave legacy code in the dust.
+  - Contribute to the open-source community.
+  - Improve my communication skills.
+  - Learn Go programming.
+  - Improve my knowledge on things I already know
 - ⚡ Fun fact: I love playing CSGO and Apex Legends and memes in general.
 
 ### Connect with me
